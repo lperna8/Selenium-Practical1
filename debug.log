@@ -1,0 +1,9 @@
+[0913/184144.345:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0913/184144.347:ERROR:exception_snapshot_win.cc(99)] thread ID 45108 not found in process
+[0913/184144.347:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0914/215045.286:ERROR:process_reader_win.cc(108)] process 209224 not found
+[0914/215045.289:ERROR:exception_snapshot_win.cc(99)] thread ID 207284 not found in process
+[0914/215045.290:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0914/223901.222:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0914/223901.225:ERROR:exception_snapshot_win.cc(99)] thread ID 221880 not found in process
+[0914/223901.226:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
